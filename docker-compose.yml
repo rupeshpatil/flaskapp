@@ -5,7 +5,6 @@ services:
 
   flask:
 
-
     build: ./flask
 
     container_name: flask
